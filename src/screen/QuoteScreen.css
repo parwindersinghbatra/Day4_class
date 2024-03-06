@@ -1,0 +1,7 @@
+.quote-section{
+    padding:6rem  8rem;
+    display: flex;
+    flex-direction: column;
+    gap:4rem;
+    
+}
